@@ -1,0 +1,44 @@
+P{
+    color: red;
+}
+#VCL {
+    background-color: blue;
+    color: beige;
+}
+#VCL2 {
+    color: aqua;
+}
+.hehe
+{
+    background-color: blueviolet;
+    color: blue;
+    text-decoration: underline;
+}
+li> b {
+    color: rgb(133, 14, 14);
+}
+h1+p {
+    color: black;
+}
+li .b {
+    text-decoration: overline;
+    color: rgb(42, 165, 85);
+}
+input [type="text"]
+{
+    background-color: red;
+}
+a :link
+{
+color: blue;
+}
+a :visited {
+color: rgb(87, 93, 155);
+}
+a :hover {
+color: antiquewhite;
+}
+a :active {
+color: black;
+}
+
